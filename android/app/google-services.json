@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "696872099213",
+    "project_id": "testando-autenticacao-22846",
+    "storage_bucket": "testando-autenticacao-22846.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696872099213:android:d2d462ca92df386ad031c4",
+        "android_client_info": {
+          "package_name": "br.com.perven.vakinha_burger_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696872099213-in53l4qee9n73f6i4uiucb2oa9qvad6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhYKeSdJ8JV20PO0efVTdqq5ZtWRBI9ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696872099213-in53l4qee9n73f6i4uiucb2oa9qvad6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
